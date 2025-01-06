@@ -9,7 +9,7 @@ Segue abaixo as instruções para a execução do teste.
 1. **Faça um fork desse projeto** para a sua conta pessoal do GitHub.
 2. **Desenvolva a aplicação** conforme as Especificações Técnicas abaixo.
 3. **Crie um README** com as instruções para compilar, testar e rodar o projeto.
-4. O link do repositório deverá ser enviado para o e-mail **gabriel@leeksolucoes.com.br** e **marcos.bresolin@leeksolucoes.com.br** com o título **Teste Vaga Fullstack Pleno**.
+4. O link do repositório deverá ser enviado para o e-mail **gabriel@leeksolucoes.com.br**, **marcos.bresolin@leeksolucoes.com.br** e **joao.marcelino@leeksolucoes.com.br** com o título **Teste Vaga Fullstack**.
 
 ---
 
